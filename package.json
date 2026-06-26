@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-svg-sprite-generator",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "A fast, zero-dependency SVG sprite generator for Vite 5–8+ and Node.js >= 18.5. Supports single/folders modes, watch reloading, and smart attribute inheritance.",
   "type": "module",
   "main": "./index.js",

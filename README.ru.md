@@ -25,6 +25,7 @@ npm install vite-plugin-svg-sprite-generator --save-dev
 pnpm add -D vite-plugin-svg-sprite-generator
 # или
 yarn add -D vite-plugin-svg-sprite-generator
+```
 
 ## 🛠 Использование
 

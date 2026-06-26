@@ -1,0 +1,39 @@
+{
+  "name": "vite-plugin-svg-sprite-generator",
+  "version": "1.0.0",
+  "description": "A fast, zero-dependency SVG sprite generator for Vite 5–8+ and Node.js >= 18.5. Supports single/folders modes, watch reloading, and smart attribute inheritance.",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "README.ru.md"
+  ],
+  "engines": {
+    "node": ">=18.5.0"
+  },
+  "peerDependencies": {
+    "vite": ">=5.0.0"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "svg",
+    "svg-sprite",
+    "sprite-generator",
+    "zero-dependencies"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tavigos/vite-plugin-svg-sprite-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tavigos/vite-plugin-svg-sprite-generator/issues"
+  },
+  "homepage": "https://github.com/tavigos/vite-plugin-svg-sprite-generator#readme"
+}

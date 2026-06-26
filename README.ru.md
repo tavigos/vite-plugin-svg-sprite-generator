@@ -141,11 +141,3 @@ sprite-editor.svg
 (15 icons)
 
 ```
-
-## 📄 Лицензия
-
-MIT
-
-```
-
-```
